@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "9f093ab1-7482-4dcc-b108-01edc5c8bce1",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/another-tf-env",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/alpha-iad-tf-env-tpl",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
