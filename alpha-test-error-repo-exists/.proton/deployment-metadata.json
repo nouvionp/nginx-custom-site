@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "60988d1e-e5a4-486b-b735-f1e472830ca7",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/alpha-test-error-repo-exists",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/alpha-iad-tf-env-tpl",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
