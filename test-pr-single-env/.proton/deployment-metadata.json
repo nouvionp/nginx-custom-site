@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "a56c5641-1940-417b-8222-645d06646457",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/test-pr-single-env",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/alpha-iad-tf-env-tpl",
+    "templateMajorVersion" : "2",
+    "templateMinorVersion" : "0"
+  }
+}
