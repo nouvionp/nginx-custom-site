@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "c0f64bcf-bf1c-4b1b-a5e3-ccf18f353de8",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:605109740225:environment/prod-pdx-test-to-delete",
+    "templateArn" : "arn:aws:proton:us-west-2:605109740225:environment-template/single-file-tf-pdx-tpl",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
