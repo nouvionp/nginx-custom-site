@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "9b479e24-3806-4e45-ad1c-46f8164d0451",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:605109740225:environment/prod-iad-tf-pr-test-new-repo",
+    "templateArn" : "arn:aws:proton:us-east-1:605109740225:environment-template/iad-prod-single-file-tf-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
